@@ -1,3 +1,12 @@
+  @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+
+
+
+
+
+
+
 .head{
     align-items: center;
     justify-content: center;
@@ -13,17 +22,17 @@
     color: red;
 }
 h1{
-    margin: 2px;
+    margin: 4px;
      align-items: center;
     justify-content: center;
     display: flex;
-    font-size: 30px;
+    font-size: 33px;
 }
 .line{
    margin-bottom: 10px;
     margin-left: 645px;
     width: 200px;
-    height: 3px;
+    height: 4px;
     background-color: red;
     display: inline-block;
 }
@@ -31,16 +40,17 @@ p{
     align-items: center;
     justify-content: center;
     display: flex;
-    font-size: 17px;
-    margin: 2px;
+    font-size: 12px;
+    margin: 4px;
+    font-family:'Edu TAS Beginner', cursive;;
 }
-/* img and text div*/
 .main{
     background-color: white;
     margin: 0px;
     padding: 0px;
     display: flex;
     justify-content: space-between;
+    font-family:'Edu TAS Beginner', cursive;;
 }
 
 .p-1{
